@@ -1,0 +1,12 @@
+.picture-border {
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 15px;
+  padding-top: 10px;
+  width: 50%;
+}
+
+.added-image {
+  width: 95%;
+  margin: 10px 0px;
+}
